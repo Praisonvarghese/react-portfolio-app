@@ -12,7 +12,7 @@ const ProductList = () => {
         </div>
         <div className="pl-list">
           <Product img={Img2} repo="https://praisonvarghese.github.io/real-estate-project/" />
-          <Product img={Img1} repo="https://praisonvarghese.github.io/real-estate-project/" />
+          <Product img={Img1} repo="https://praison-react-portfolio.herokuapp.com/" />
         </div>
     </div>
   )

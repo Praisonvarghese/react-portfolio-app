@@ -93,4 +93,13 @@
         height: 220px;
         
     }
+
+    .i-left-wrapper{
+        height: 100%;
+        
+    }
+    .i-title-item{
+        height: 50px;
+        font-size: 25px;
+    }
 }
